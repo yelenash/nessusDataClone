@@ -11,7 +11,7 @@ start elasticsearch docker:
  #### Important: use 64bit version of python. (some days have many documents)
   
  ```
- pip install 
+ pip install -r requirements.txt
  ``` 
  
 ```
